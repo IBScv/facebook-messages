@@ -1,7 +1,7 @@
 /**
  * ATTENTION !!! ATTENTION !!! ATTENTION
  * USE AT YOUR OWN RISK, MESSAGES DELETED FROM FACEBOOK MENSENGER CAN SYNC ON DEVICES, SOMETIMES CAN NOT BE RECOVERED
- * Script to delete all friends conversations (not market) from my facebook account
+ * Script to delete all friends conversations (not market) from your facebook account
  */
 
 (function () {
