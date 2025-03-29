@@ -1,5 +1,6 @@
 # facebook-messages
 WARNING - For user that does not have heavy contents on facebook, I mean no important conversations!
+Just friends conversations, not market!
 
 Delete All Facebook Messenger Conversations
 
